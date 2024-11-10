@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Text to Speech for under-resources languages](https://huggingface.co/spaces/Pipe1213/VITS_Walloon_Graphemes)
 
-- 🌱 I’m currently learning **NLP, GenAI, Computer Vision, Reinforcement Learning**
+- 🌱 I’m currently learning **Natural Language Processing, GenAI, Computer Vision, Reinforcement Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
