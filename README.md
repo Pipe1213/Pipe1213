@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe Espinosa</h1>
-<h3 align="center">A passionate Artificial Intelligence Engineer from Colombia</h3>
+<h3 align="center">A passionate Artificial Intelligence Engineer !</h3>
+
+- 🔭 I’m currently working on [Text to Speech for under-resources languages](https://huggingface.co/spaces/Pipe1213/VITS_Walloon_Graphemes)
+
+- 🌱 I’m currently learning **NLP, GenAI, Computer Vision, Reinforcement Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
