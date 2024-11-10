@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felipe Espinosa</h1>
-<h3 align="center">A passionate Artificial Intelligence Engineer !</h3>
+<h3 align="center">An AI Master’s student at Paris-Saclay University. My focus areas include Natural Language Processing, Text-to-Speech, Generative AI, and Computer Vision. I’m passionate about applying advanced AI techniques to solve real-world problems.</h3>
 
 - 🔭 I’m currently working on [Text to Speech for under-resources languages](https://huggingface.co/spaces/Pipe1213/VITS_Walloon_Graphemes)
 
 - 🌱 I’m currently learning **Natural Language Processing, GenAI, Computer Vision, Reinforcement Learning**
+
+- **📫 Feel free to reach out if you’re interested in collaboration or have internship opportunities!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
